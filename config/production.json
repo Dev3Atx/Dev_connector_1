@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://Odin_Dev:Odin123@devconnector-szkju.mongodb.net/test?retryWrites=true",
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "4de0a7875642bd1916af",
+	"githubSecret": "90b1a5fb9061355c2f24fe3eb8aba29e3b593968"
+}
